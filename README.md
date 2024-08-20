@@ -1,5 +1,5 @@
 # UtcHelperPy
-- Simple Python Helper for making UTCs more readably for PST Time
+- Simple Python Helper for making UTCs more readable for PST Time
 - Mainly for reuse as I get annoyed reading UTC times Tokens with Expiration Properties
 
 # To Use
